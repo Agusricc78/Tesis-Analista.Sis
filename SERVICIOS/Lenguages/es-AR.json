@@ -1,0 +1,156 @@
+{
+  "MenuPrincipal": {
+    "Text": "Productos OSC",
+    "btnpermiso": "Permisos",
+    "btnAdministracion": "Administracion",
+    "btncarrito": "Carrito",
+    "btnproducto": "Products",
+    "btnfacturas": "facturas",
+    "btnreportes": "Reporte",
+    "btnayuda": "Ayuda",
+    "btnlogout": "Log out",
+    "btngestionperfiles": "Gestion de perfiles",
+    "btnidiomafrm": "Idioma",
+    "btnregistro": "Registro",
+    "btnNegocio": "Despacho"
+  },
+  "Productos": {
+    "Text": "Productos",
+    "lblproductos": "Productos OSC",
+    "lblagregar": "Crear producto",
+    "lblmarca": "Marca",
+    "lbltamaño": "tamaño",
+    "lblmodelo": "Modelo",
+    "lbltipo": "Tipo",
+    "lblprecio": "Precio",
+    "lblstock": "Stock",
+    "btnagregarproducto": "Crear Producto",
+    "btnactualizarlista": "Actualizar lista",
+    "btnmenu": "Menu principal",
+    "lbllistadeproductos": "Lista de productos"
+  },
+  "Idioma": {
+    "Text": "Idioma",
+    "lblIdioma": "Idioma",
+    "btnaplicar": "aplicar",
+    "btnmenu": "Menu principal"
+  },
+  "GestionPerfil": {
+    "Text": "Gestion de perfiles",
+    "lblbuscaruser": "Buscar usuario",
+    "lblperfiles": "Buscar perfil",
+    "btnasignarperfil": "Asignr Perfil",
+    "btnmenu": "Menu principal"
+
+  },
+  "FrmDespacho": {
+    "Text": "Factura",
+    "lblventasafacturar": "Ventas a facturar",
+    "lblnombrefactura": "Nombre a facturar",
+    "btnfactura": "Generar factura",
+    "btnsalir": "Salir",
+    "btnmenu": "Menu principal",
+    "lbltipodoc": "Tipo de Documento",
+    "lblnumdoc": "Numero de Documento",
+    "lblnomcliente": "Nombre de Cliente",
+    "lblnombreven": "Nombre Vendedor",
+    "lblfechafac": "Fecha de factura"
+  },
+  "Administracion": {
+    "lblgestionuser": "Gestion de usuarios",
+    "lbltodosuser": "Todos los usuarios",
+    "lblnombre": "Nombre",
+    "lblapellido": "Apellido",
+    "lbldni": "DNI",
+    "lblcontra": "Contaseña",
+    "lbluser": "User name",
+    "lblmail": "Email",
+    "chxactivos": "Activo",
+    "chxencript": "Todos los usuarios encryptados",
+    "chxtodos": "Todos los usuarios",
+    "btnañadir": "Añadir",
+    "btnmodificar": "Modificar",
+    "btneliminar": "Eliminar",
+    "btnactivar": "Activar",
+    "btndesactivar": "Desactivar",
+    "btndesbloquear": "Desbloquear",
+    "btnbloquear": "Bloquear",
+    "btnsalir": "Salir",
+    "btnmenu": "Menu principal",
+    "btnlogin": "Login",
+    "lblmensaje": "Mensaje",
+    "lblretro": "RetroAlimentacion"
+  },
+
+  "Cambiar Contraseña": {
+    "Text": "Cambiar contraseña",
+    "Dni": "DNI",
+    "btncambiarclave": "Cambiar clave",
+    "btnlogin": "Ir al login",
+    "btnsalir": "Salir",
+    "lblcontraseña": "Contraseña",
+    "lblconfirmar": "Confiramar"
+  },
+
+  "Carrito_Compras": {
+    "Text": "Carrito",
+    "lblcrearcarrito": "Crear carrito",
+    "lblestado": "Estado",
+    "lblfecha": "Fecha",
+    "lblcliente": "Nombre del cliente",
+    "lblpro": "Productos",
+    "lblllenarcarrito": "Completar carrito",
+    "lblcantidad": "Cantidad",
+    "lblidcarrito": "Id del carrito",
+    "btnagregarproducto": "Agregar producto al carrito",
+    "lblmostrarcarrito": "Productos del carrito",
+    "lblmostrarcarritoporid": "Mostrar carrito por id",
+    "lbltotcarrito": "Subtotal",
+    "btnmostrarcarrito": "Mostrar carrito por id",
+    "btnfinalizarcarrito": "Finalizar carrito",
+    "btnregistrarcliente": "Registrar cliente",
+    "btnmenu": "Menu principal",
+    "lbldire": "Direccion Local"
+  },
+  "ConfirmacionLogout": {
+    "btnsi": "Si",
+    "btnno": "No",
+    "lbldeseasalir": "Desea salir de la aplicacion"
+  },
+  "Exit": {
+    "btnsi": "Si",
+    "btnno": "No",
+    "lbldeseasalir": "Desea salir de la aplicacion"
+  },
+  "Permisos": {
+    "lblperfiles": "Perfiles creados",
+    "lblperfil": "Perfiles",
+    "lblperfilescreados": "Perfiles creados",
+    "lblpermisosdelsistema": "Permisos del sistema",
+    "lblpermisosperfil": "Permisos del sistema",
+    "lbldescr": "Descripcion",
+    "rbtncrearperfil": "Crear Perfil",
+    "rbtneditarperfil": "Crear Familia",
+    "btnAsignar": "Asignar",
+    "btnRemover": "Remover",
+    "btnmenu": "Menu principal",
+    "btnGuardarCambios": "Guardar cambios",
+    "lblFamiliascreadas": "Familias creadas",
+    "btnCrear": "Crear",
+    "btnEliminar": "Eliminar",
+    "btnAsignarFamilia": "Asignar Familia",
+    "btnQuitarFamilia": "Quitar Familia",
+    "lblFamilia": "Familias Creadas"
+  },
+  "Negocios": {
+    "Text": "Negocios",
+    "lbldire": "Direccion",
+    "lblnombre": "Nombre",
+    "lblcuit": "CUIT",
+    "btncrear": "Crear Negocio",
+    "lblnegocio": "Negocios"
+  }
+
+
+
+}

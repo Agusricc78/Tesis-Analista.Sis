@@ -1,0 +1,147 @@
+{
+  "MenuPrincipal": {
+    "Text": "Product OSC",
+    "btnpermiso": "Permissions",
+    "btnAdministracion": "Administration",
+    "btncarrito": "Cart",
+    "btnproducto": "Product",
+    "btnfacturas": "Bill",
+    "btnreportes": "Report",
+    "btnayuda": "Help",
+    "btnlogout": "Log out",
+    "btngestionperfiles": "Profile management",
+    "btnidiomafrm": "Lenguage",
+    "btnregistro": "Register User",
+    "btnNegocio": "Premises"
+  },
+  "Productos": {
+    "Text": "Products",
+    "lblproductos": "Products OSC",
+    "lblagregar": "Create Product",
+    "lblmarca": "Brand",
+    "lbltamaño": "size",
+    "lblmodelo": "Model",
+    "lbltipo": "Type",
+    "lblprecio": "Price",
+    "lblstock": "Stock",
+    "btnagregarproducto": "Create Product",
+    "btnactualizarlista": "Update List",
+    "btnmenu": "Main menu",
+    "lbllistadeproductos": "Actual product lists"
+  },
+  "Idioma": {
+    "Text": "Lenguage",
+    "lblIdioma": "Lenguage",
+    "btnaplicar": "apply",
+    "btnmenu": "Main Menu"
+  },
+  "GestionPerfil": {
+    "Text": "Profile Management",
+    "lblbuscaruser": "Search User",
+    "lblperfiles": "Search Profile",
+    "btnasignarperfil": "Asign Profile",
+    "btnmenu": "Main Menu"
+  },
+  "FrmDespacho": {
+    "Text": "Billing",
+    "lblventasafacturar": "Sales",
+    "lblnombrefactura": "Name in the bill",
+    "btnfactura": "Generate bill",
+    "btnsalir": "Go Out",
+    "btnmenu": "Main Menu"
+  },
+  "Administracion": {
+    "lblgestionuser": "User Management",
+    "lbltodosuser": "All Users",
+    "lblnombre": "Name",
+    "lblapellido": "Second Name",
+    "lbldni": "DNI",
+    "lblcontra": "Password",
+    "lbluser": "User Name",
+    "lblmail": "Mail",
+    "chxactivos": "Active",
+    "chxencript": "All encrypt Users",
+    "chxtodos": "All Users",
+    "btnañadir": "Create",
+    "btnmodificar": "Modify",
+    "btneliminar": "Delete",
+    "btnactivar": "Activate",
+    "btndesactivar": "DeActivate",
+    "btndesbloquear": "Unlock",
+    "btnbloquear": "Lock",
+    "btnsalir": "Go out",
+    "btnmenu": "Main menu",
+    "btnlogin": "go to login",
+    "lblmensaje": "Message",
+    "lblretro": "Feedback"
+  },
+
+  "Cambiar Contraseña": {
+    "Text": "Change Password",
+    "Dni": "DNI",
+    "btncambiarclave": "Change Password",
+    "btnlogin": "Go to Login",
+    "btnsalir": "Go out",
+    "lblcontraseña": "New Password",
+    "lblconfirmar": "Confirm password"
+  },
+
+  "Carrito_Compras": {
+    "Text": "Cart",
+    "lblcrearcarrito": "Create cart",
+    "lblestado": "State",
+    "lblfecha": "Date",
+    "lblcliente": "Clients name",
+    "lblpro": "Products",
+    "lblllenarcarrito": "Complete cart",
+    "lblcantidad": "Quantity",
+    "lblidcarrito": "Carts Id",
+    "btnagregarproducto": "Add to cart",
+    "lblmostrarcarrito": "Carts item",
+    "lblmostrarcarritoporid": "Show carts item per id",
+    "lbltotcarrito": "Total carts price",
+    "btnmostrarcarrito": "Show carts items",
+    "btnfinalizarcarrito": "Proceed to Checkout",
+    "btnregistrarcliente": "Register client",
+    "btnmenu": "Go to main menu",
+    "lbldire": "Premise Adress"
+  },
+  "ConfirmacionLogout": {
+    "btnsi": "Yes",
+    "btnno": "No",
+    "lbldeseasalir": "Do yo want to exit the application"
+  },
+  "Exit": {
+    "btnsi": "Yes",
+    "btnno": "No",
+    "lbldeseasalir": "Do yo want to exit the application"
+  },
+  "Permisos": {
+    "lblperfiles": "Created profiles",
+    "lblperfil": "Profiles",
+    "lblperfilescreados": "Creates profiles",
+    "lblpermisosdelsistema": "System permissions",
+    "lblpermisosperfil": "Profile permissions",
+    "lbldescr": "Profile Information",
+    "rbtncrearperfil": "Create Profile",
+    "rbtneditarperfil": "Create Family",
+    "btnAsignar": "Asign",
+    "btnRemover": "Remove",
+    "btnmenu": "Main Menu",
+    "btnGuardarCambios": "Save Changes",
+    "lblFamiliascreadas": "Created Families",
+    "btnCrear": "Create",
+    "btnEliminar": "Delete",
+    "btnAsignarFamilia": "Assign Family",
+    "btnQuitarFamilia": "Remove Family",
+    "lblFamilia": "Created Families"
+  },
+  "Negocios": {
+    "Text": "Business",
+    "lbldire": "Adress",
+    "lblnombre": "Name",
+    "lblcuit": "CUIT",
+    "btncrear": "Create Business",
+    "lblnegocio": "Business"
+  }
+}
