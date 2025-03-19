@@ -1,0 +1,11 @@
+C:\Users\agusr\source\repos\ProductosOSC\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\agusr\source\repos\ProductosOSC\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\agusr\source\repos\ProductosOSC\Interfaces\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\agusr\source\repos\ProductosOSC\Interfaces\bin\Debug\itextsharp.dll
+C:\Users\agusr\source\repos\ProductosOSC\Interfaces\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\agusr\source\repos\ProductosOSC\Interfaces\bin\Debug\itextsharp.xml
+C:\Users\agusr\source\repos\ProductosOSC\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\agusr\source\repos\ProductosOSC\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\agusr\source\repos\ProductosOSC\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\agusr\source\repos\ProductosOSC\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\agusr\source\repos\ProductosOSC\Interfaces\obj\Debug\Interfaces.pdb

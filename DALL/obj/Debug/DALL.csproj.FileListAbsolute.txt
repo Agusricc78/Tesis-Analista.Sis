@@ -1,0 +1,15 @@
+C:\Users\agusr\source\repos\ProductosOSC\DALL\bin\Debug\DALL.dll
+C:\Users\agusr\source\repos\ProductosOSC\DALL\bin\Debug\DALL.pdb
+C:\Users\agusr\source\repos\ProductosOSC\DALL\bin\Debug\BE.dll
+C:\Users\agusr\source\repos\ProductosOSC\DALL\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\agusr\source\repos\ProductosOSC\DALL\bin\Debug\itextsharp.dll
+C:\Users\agusr\source\repos\ProductosOSC\DALL\bin\Debug\Interfaces.dll
+C:\Users\agusr\source\repos\ProductosOSC\DALL\bin\Debug\BE.pdb
+C:\Users\agusr\source\repos\ProductosOSC\DALL\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\agusr\source\repos\ProductosOSC\DALL\bin\Debug\itextsharp.xml
+C:\Users\agusr\source\repos\ProductosOSC\DALL\bin\Debug\Interfaces.pdb
+C:\Users\agusr\source\repos\ProductosOSC\DALL\obj\Debug\DALL.csproj.AssemblyReference.cache
+C:\Users\agusr\source\repos\ProductosOSC\DALL\obj\Debug\DALL.csproj.CoreCompileInputs.cache
+C:\Users\agusr\source\repos\ProductosOSC\DALL\obj\Debug\DALL.csproj.CopyComplete
+C:\Users\agusr\source\repos\ProductosOSC\DALL\obj\Debug\DALL.dll
+C:\Users\agusr\source\repos\ProductosOSC\DALL\obj\Debug\DALL.pdb
